@@ -1,2 +1,3 @@
-# EDA_Diwali_Sales
-This analysis uncovers key trends in sales, customer demographics, and product performance during the festive season. Insights aim to optimize marketing strategies, improve inventory planning, and boost overall sales outcomes.
+# Exploratory Data Analysis (EDA) on Diwali Sales
+
+This analysis explores key trends in sales, customer demographics, and product performance during the festive season. By examining purchasing patterns, regional preferences, and consumer behavior, we aim to uncover valuable insights that can drive data-driven decision-making. These insights will help businesses optimize marketing strategies, improve inventory planning, and enhance customer targeting. Additionally, understanding high-demand products and peak sales periods can assist in better resource allocation, ultimately leading to increased sales and improved profitability.
